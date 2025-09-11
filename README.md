@@ -21,6 +21,17 @@ This repository summarises my projects, demonstrating my skills in test automati
   - Linked test cases with **Jira**, automatically updating their status based on test results
 - **Repo:** [Saucedemo Automation](https://github.com/luchiang1997/saucedemo-tests)
 
+### 2. TesterBud Automation (In Progress)
+- **Description:** Practiced end-to-end automation for most workflows commonly used in real-world QA, including login, web forms, registration, password reset, e-commerce flows, flight booking, and UI element interactions on the TesterBud platform.
+- **Tech Stack:** Python, Playwright, Pytest, pytest-playwright
+- **Highlights:**
+  - Implemented UI automation for a wide range of modules: Login, Web Form, Registration, Forget Password, E-commerce, Flight Booking, and UI Element Automation.
+  - Used **Playwright's expect API** to validate element visibility, input actions, and error messages
+  - Generated structured **HTML test reports** for clear results tracking
+  - Organised tests with `pytest.ini` and separate `tests/` folders for each module
+- **Repo:** [TesterBud Automation](https://github.com/luchiang1997/testerbud_projects)
+
+
 ---
 
 ## Contact
