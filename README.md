@@ -22,13 +22,16 @@ This repository summarises my projects, demonstrating my skills in test automati
 - **Repo:** [Saucedemo Automation](https://github.com/luchiang1997/saucedemo-tests)
 
 ### 2. TesterBud Automation (In Progress)
-- **Description:** Practiced end-to-end automation for most workflows commonly used in real-world QA, including login, web forms, registration, password reset, e-commerce flows, flight booking, and UI element interactions on the TesterBud platform.
+
+- **Description:** Developed and practiced **end-to-end automation** for common real-world QA workflows — including **login**, **web forms**, **user registration**, **password reset**, **e-commerce checkout**, **flight booking**, and **UI element interactions** on the [TesterBud](https://testerbud.com/practice-forms) platform.
 - **Tech Stack:** Python, Playwright, Pytest, pytest-playwright
 - **Highlights:**
-  - Implemented UI automation for a wide range of modules: Login, Web Form, Registration, Forget Password, E-commerce, Flight Booking, and UI Element Automation.
-  - Used **Playwright's expect API** to validate element visibility, input actions, and error messages
-  - Generated structured **HTML test reports** for clear results tracking
-  - Organised tests with `pytest.ini` and separate `tests/` folders for each module
+  - Implemented **UI automation** across multiple modules: Login, Web Form, Registration, Forgot Password, E-commerce, Flight Booking, and UI Elements.
+  - Utilised **Playwright’s `expect` API** to validate element visibility, user interactions, and form validations.
+  - Integrated **parallel test execution** using `pytest-xdist` to optimize runtime efficiency.
+  - Generated structured **HTML test reports** for detailed and transparent result tracking.
+  - Organised tests using `pytest.ini` and maintained module-specific directories under `tests/` for better scalability.
+  - Applied **GitHub Copilot AI** to assist in code refactoring and optimisation suggestions.
 - **Repo:** [TesterBud Automation](https://github.com/luchiang1997/testerbud_projects)
 
 
