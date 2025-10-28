@@ -2,7 +2,7 @@
 
 Hi! I am Lu 👋
 
-I am a QA/Automation enthusiast with hands-on experience in Python, Selenium, Playwright, and API testing.  
+I am a **QA/Automation enthusiast** with hands-on experience in **Python, Selenium, Playwright, and API testing.** 
 I have experience building end-to-end automated tests, implementing CI/CD pipelines, and integrating test cases with Jira for real-world workflow management.  
 
 This repository summarises my projects, demonstrating my skills in test automation, API testing, and process-driven QA practices. Each project includes a brief overview, tech stack, key highlights, and links to the full code. 😄
